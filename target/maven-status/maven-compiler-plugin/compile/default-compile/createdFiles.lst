@@ -1,0 +1,12 @@
+com\zam\logica\Disquera.class
+com\zam\servlets\SVDisquera.class
+com\zam\servlets\SVTrack.class
+com\zam\logica\Remix.class
+com\zam\controladora\Controladora.class
+com\zam\logica\Artista.class
+com\zam\logica\Genero.class
+com\zam\conexion\Conexion.class
+com\zam\servlets\SVArtista.class
+com\zam\logica\Track.class
+com\zam\servlets\SVRemix.class
+com\zam\servlets\SVGenero.class

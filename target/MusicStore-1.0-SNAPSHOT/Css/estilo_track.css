@@ -1,0 +1,61 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 8 mar. 2023, 22:05:17
+    Author     : DELL
+*/
+body{
+    margin: 0px;
+    font-family:monospace;
+}
+
+/*--------------Navegador seccion--------------*/
+.seccion-navegador {
+    width: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 15px;
+}
+
+.navegador {
+    margin-left: 250px;
+    width:900px;
+}
+
+.seccion-navegador-ul{
+    margin: 0px;
+}
+
+.seccion-navegador li{
+    display:inline;
+}
+
+.navegador-a{
+    text-decoration: none;
+    color: black;
+    margin-right: 0px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.navegador-a:hover {
+    background-color: #E9EEF5;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: all, 0.5s;
+}
+
+/*--------------Registro de track seccion--------------*/
+.seccion-registro-track {
+    width: auto;
+    height: 800px;
+    background-color: #171718;
+    display: flex;
+    color: white;
+}
